@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">QuizAppy</string>
+
+    <string name="name_input">Name</string>
+
+    <string name="answer_input">Your Answer</string>
+
+    <string name="question1title">Question 1</string>
+    <string name="question2title">Question 2</string>
+    <string name="question3title">Question 3</string>
+    <string name="question4title">Question 4</string>
+    <string name="question5title">Question 5</string>
+
+    <string name="question1">What is the name of national bird of India?</string>
+
+    <string name="question2">Which is the largest living bird on Earth?</string>
+    <string name="ques_2_option_1">Emu</string>
+    <string name="ques_2_option_2">Ostrich</string>
+    <string name="ques_2_option_3">Albatross</string>
+    <string name="ques_2_option_4">Siberian Crane</string>
+
+    <string name="question3">Who are national birds of the World?</string>
+    <string name="ques_3_option_1">Gyrfalcon</string>
+    <string name="ques_3_option_2">Parrot</string>
+    <string name="ques_3_option_3">Peafowl</string>
+    <string name="ques_3_option_4">Penguin</string>
+    <string name="ques_3_option_5">All of the above</string>
+    <string name="ques_3_option_6">None of the above</string>
+
+    <string name="question4">Which of the following birds is the state bird of three Indian states?</string>
+    <string name="ques_4_option_1">Hill Mynah</string>
+    <string name="ques_4_option_2">Blue Jay (Indian Roller)</string>
+    <string name="ques_4_option_3">Greater Flamingo</string>
+    <string name="ques_4_option_4">Great Hornbill</string>
+
+    <string name="question5">Darwin finches refers to a group of</string>
+    <string name="ques_5_option_1">Fishes</string>
+    <string name="ques_5_option_2">Lizards</string>
+    <string name="ques_5_option_3">Birds</string>
+    <string name="ques_5_option_4">Amphibians</string>
+
+    <string name="submit">Submit</string>
+    <string name="reset">Reset</string>
+
+</resources>
